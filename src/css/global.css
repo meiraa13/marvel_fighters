@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+
+  background-image: url("../imagens/background.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+/* body{
+  font-family: 'ssf4', courier, monospace;
+  background: var(--cor-secundaria);
+  
+}
+
+body::before{
+  content:'';
+  background-image: url("../imagens/background.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0.2;
+} */

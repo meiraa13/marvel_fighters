@@ -1,0 +1,9 @@
+header {
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+    height: 100px;
+    font-family: 'ssf4';
+    color: yellow;
+}
